@@ -15,7 +15,7 @@ first page.zip	Contains complete quiz + blockchain cert
 💻 Technologies Used:
 HTML, CSS, JavaScript
 
-Ethers.js + MetaMask for blockchain interaction
+
 
 Solidity Smart Contracts (deployed via Remix/Hardhat)
 
